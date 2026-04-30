@@ -1,21 +1,82 @@
-MIT License
+# 🎬 Dreamina Director Studio
 
-Copyright (c) 2026 ymhomer
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+> A professional toolkit for Dreamina (即梦) AI video creation — from prompt engineering to cinematic storytelling.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 🚀 Overview
+
+**Dreamina Director Studio** is a structured system designed to help creators generate **high-quality AI short videos** with stability, clarity, and cinematic control.
+
+Instead of random prompts, this project provides:
+- 🎯 Structured prompt frameworks  
+- 🎥 Storyboard-driven video design  
+- 🧠 Content strategy & viral logic  
+- 👤 Digital human (@角色) usage system  
+- 🔁 “Remake / Sequel” workflow models  
+
+It transforms AI video creation into a **repeatable and scalable production system**.
+
+---
+
+## 🧩 Core Modules
+
+### 1. 🎯 Prompt Engineering
+- Structured prompt format (scene → action → camera → style)
+- Stability optimization (reduce AI randomness)
+- Conflict-free prompt design
+
+### 2. 🎬 Storyboard System
+- Shot-by-shot breakdown
+- Camera language (push, pull, tracking, POV)
+- Rhythm & pacing control
+
+### 3. 🎨 Visual Direction
+- Style consistency
+- Lighting & color control
+- Texture enhancement
+
+### 4. 👤 Digital Human System (@)
+- Character consistency
+- Multi-character logic
+- Identity locking
+
+### 5. 🔁 Content Frameworks
+- Viral structures
+- Hook → Build → Payoff → Memory Point
+- Remake / Sequel systems
+
+---
+
+## 🛠️ Project Structure
+
+dreamina-director-studio/
+├── prompts/
+├── frameworks/
+├── storyboards/
+├── workflows/
+├── examples/
+├── templates/
+
+---
+
+## 🎥 Workflow
+
+Idea → Structure → Prompt → Generate → Refine → Output
+
+---
+
+## ⚡ Key Principles
+
+- Stability > Complexity  
+- Structure > Random  
+- Rhythm > Overload  
+- Clarity > Fancy  
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
