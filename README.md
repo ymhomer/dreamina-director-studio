@@ -1,4 +1,5 @@
 # 🎬 Dreamina Director Studio
+https://chatgpt.com/g/g-69cc4e26b4d88191ba22a7b51a627b5b-ji-meng-dao-yan-prompt-studio
 
 > A professional toolkit for Dreamina (即梦) AI video creation — from prompt engineering to cinematic storytelling.
 
